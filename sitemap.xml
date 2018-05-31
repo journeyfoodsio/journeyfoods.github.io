@@ -2,22 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://journeyfoods.io/index.html</loc>
-    <lastmod>2018-05-27</lastmod>
+    <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://journeyfoods.io/images/road.jpg</image:loc>
+      <image:loc>http://journeyfoods.io/images/road-crop-u879.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://journeyfoods.io/images/cactus.jpg</image:loc>
+      <image:loc>http://journeyfoods.io/images/cactus-crop-u886.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://journeyfoods.io/images/trees.jpg</image:loc>
+      <image:loc>http://journeyfoods.io/images/trees-crop-u883.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://journeyfoods.io/images/pasted-svg-486537x161.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://journeyfoods.io/untitled-2.html</loc>
-    <lastmod>2018-05-27</lastmod>
+    <lastmod>2018-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
